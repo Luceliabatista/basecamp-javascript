@@ -39,5 +39,4 @@ function comparacao2(num1, num2) {
     }
     return (`Sua soma é ${soma}, que é ${compara10} que 10 e ${compara20} que 20.`)
 }
-
 console.log(verificacaoPrincipal(2, 0)) 
